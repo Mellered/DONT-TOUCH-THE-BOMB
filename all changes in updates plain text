@@ -1,0 +1,37 @@
+1.0.0
+
+* First update
+
+1.0.1
+
+* [BUGFIX] fixed R in the bug glitch
+* NOTE: this versions changes is in 1.1
+
+1.1
+
+* + added 4 new levels, sweet!
+* - removed goodgoo
+
+**1.1.1**
+
+* + saving and opening
+
+**1.1.1.1**
+
+* + added press ESC for going back to the game, is accidently called F1
+
+**1.2 - The Options Update**
+
+* + Added the long waited options, sweet! 
+* Cleaning the developer file for making adding levels easier 
+* + added 5 new levels - 4 levels and 1 boss
+* - removed goodgoo
+
+1.2.1 - The Sound Update
+
+* + Adding sound
+* + pressing W will take you to this page
+* Made level 7 harder
+* made so if you hold in the button for changing the screen it will not flicker
+* + Added story
+* + Added 1 new level
